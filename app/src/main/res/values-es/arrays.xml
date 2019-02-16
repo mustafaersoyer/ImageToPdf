@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_options">
+        <item>Nombre</item>
+        <item>Fecha</item>
+        <item>Tamaño  ▲</item>
+        <item>Tamaño  ▼</item>
+    </string-array>
+
+    <string-array name="sort_options_images">
+        <item>Nombre ▲</item>
+        <item>Nombre ▼</item>
+        <item>Fecha ▲</item>
+        <item>Fecha ▼</item>
+    </string-array>
+
+</resources>
